@@ -9,3 +9,8 @@ with col1:
 
 with col2:
     st.write('nk ii i ikgig rbosghg viuehgu bvueh u buvj dujfn ubvjeiuerh vbuvejveuv jk ji ni k')
+
+
+st.header('courses offered')
+st.subheader('data science')
+st.subheader('data analysis')
