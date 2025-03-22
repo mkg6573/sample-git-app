@@ -12,7 +12,7 @@ with col2:
 
 
 st.header('courses offered')
-st.subheader('data science')
+st.subheader('data science and ML')
 st.subheader('data analysis')
 
 st.subheader('python')
