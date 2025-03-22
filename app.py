@@ -17,3 +17,4 @@ st.subheader('data analysis')
 
 st.subheader('python')
 st.subheader('sql')
+st.subheader('dsa')
