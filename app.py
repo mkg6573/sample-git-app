@@ -18,3 +18,10 @@ st.subheader('data analysis')
 st.subheader('python')
 st.subheader('sql')
 st.subheader('dsa')
+
+st.sidebar.title('meanu')
+st.sidebar.markdown("""
+- home
+- about
+- contact
+""")
