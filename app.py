@@ -28,7 +28,10 @@ st.sidebar.markdown("""
 - carrer
 """)
 
-st.sidebar.selectbox('select one',['teacher','student'])
-st.sidebar.button('select')
 
-st.title('hello teahcer')
+option = st.sidebar.selectbox('select one',['teacher','student'])
+btn = st.sidebar.button('select')
+
+if btn:
+    st.title('hello' + option)
+
